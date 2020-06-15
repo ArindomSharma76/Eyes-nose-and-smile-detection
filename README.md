@@ -1,2 +1,5 @@
-# Eyes-nose-and-smile-detection
-Guwahati IIT ML Workshop
+# Guwahati IIT ML Workshop projects
+
+<h3>1. Eyes, Nose and smile detection in a given photo.
+2. Number plate detection in a given photo.
+3. Real time Eyes, Nose and smile detection.</h3>
